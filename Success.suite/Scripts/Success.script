@@ -1,0 +1,5 @@
+﻿DoubleClick "success"
+Click (Image:"URL", WaitFor:3.6)
+TypeText "www.amazon.com",returnkey
+wait 3
+Click "close"
